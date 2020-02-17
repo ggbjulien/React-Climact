@@ -3,9 +3,9 @@ Client project Climact
 
 # Techs used
 
-## React
-## NodeJs
-## Apexchart
+### -React
+### -7NodeJs
+### -Apexchart
 
 # Screenshots
 
